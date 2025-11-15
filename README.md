@@ -32,8 +32,3 @@ A software engineer trained at [École 42 Lyon](https://www.42.fr/), with a prev
 * [Webserv](https://github.com/lyshathan/webserv) — HTTP/1.1 server in C++ with I/O multiplexing, CGI support, and non-blocking architecture.
 * [Transcendance](https://github.com/lyshathan/transcendance) — Real-time full-stack web application (chat, online game, user management) built to production standards.
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/lyshathan/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=lyshathan&color=DE002D">
-   </a>
-</div>
