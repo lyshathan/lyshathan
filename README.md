@@ -8,7 +8,7 @@ A software engineer trained at [École 42 Lyon](https://www.42.fr/), with a prev
 </p>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/lyshathan/">
+   <a href="https://www.linkedin.com/in/ly-sha-than">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="mailto:lysha.than@gmail.com">
