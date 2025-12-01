@@ -23,7 +23,7 @@ A software engineer trained at [École 42 Lyon](https://www.42.fr/), with a prev
 * Open to collaborations and internships in **software development, full-stack web apps, and system programming**.
 
 ## 🛠 Technology Stack
-* **Languages:** C, C++, HTML, CSS, Shell, basic React
+* **Languages:** C, C++, JavaScript, TypeScript, HTML, CSS, Shell, basic React
 * **Tools:** Docker, Git, Unix/Linux systems
 * **Other skills:** CAD and 3D rendering software, Adobe Suite, project management
 
