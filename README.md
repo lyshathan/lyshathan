@@ -3,12 +3,7 @@
 A software engineer trained at [École 42 Lyon](https://www.42.fr/), with a previous background in architecture. I bring a unique mix of **technical skills**, **project management experience**, and **team leadership**, developed through years leading architectural projects and now applied to software development.
 
 <p align='center'>
-   <a href="https://github.com/lyshathan/github-readme-stats"><img height=150
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyshathan&layout=compact"/></a>
-</p>
-
-<p align='center'>
-   <a href="www.linkedin.com/in/ly-sha-than-281971143">
+   <a href="https://www.linkedin.com/in/ly-sha-than-281971143/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="mailto:lysha.than@gmail.com">
