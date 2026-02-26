@@ -1,6 +1,6 @@
 # Hi, I'm Ly-Sha 👋
 
-# Looking for a 6 months intership as a software developer or full-stack developper
+# Looking for a 6 months internship as a software developer or full-stack developer
 
 A software engineer trained at [École 42 Lyon](https://www.42.fr/), with a previous background in architecture. I bring a unique mix of **technical skills**, **project management experience**, and **team leadership**, developed through years leading architectural projects and now applied to software development.
 
