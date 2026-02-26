@@ -1,5 +1,7 @@
 # Hi, I'm Ly-Sha 👋
 
+# Looking for a 6 months intership as a software developer or full-stack developper
+
 A software engineer trained at [École 42 Lyon](https://www.42.fr/), with a previous background in architecture. I bring a unique mix of **technical skills**, **project management experience**, and **team leadership**, developed through years leading architectural projects and now applied to software development.
 
 <p align='center'>
@@ -14,7 +16,6 @@ A software engineer trained at [École 42 Lyon](https://www.42.fr/), with a prev
 ### Key points
 * Lead architect on multiple projects before transitioning into software engineering.
 * Experienced in **team management, project planning, and delivering under tight deadlines**.
-* Currently working on [Transcendance](https://github.com/lyshathan/transcendance), a real-time full-stack web application featuring chat, online games, and user management.
 * Open to collaborations and internships in **software development, full-stack web apps, and system programming**.
 
 ## 🛠 Technology Stack
