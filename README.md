@@ -18,12 +18,14 @@ A software engineer trained at [École 42 Lyon](https://www.42.fr/), with a prev
 * Open to collaborations and internships in **software development, full-stack web apps, and system programming**.
 
 ## 🛠 Technology Stack
-* **Languages:** C, C++, JavaScript, TypeScript, HTML, CSS, Shell, basic React
+* **Languages:** C, C++, JavaScript, TypeScript, HTML, CSS, Shell, basic Java
+* **Frameworks:** React, Next.js, Tailwind, basic Angular
 * **Tools:** Docker, Git, Unix/Linux systems
 * **Other skills:** CAD and 3D rendering software, Adobe Suite, project management
 
 ### My projects
-* [Minishell](https://github.com/lyshathan/minishell) — Unix shell in C with pipes, redirections, process management, and complex command parsing.
+* [Citizen Requests](https://github.com/lyshathan/citizen-requests) — A full-stack web application for handling citizen requests to local government, featuring AI-powered automatic classification using OpenAI GPT-4o-mini.
 * [Webserv](https://github.com/lyshathan/webserv) — HTTP/1.1 server in C++ with I/O multiplexing, CGI support, and non-blocking architecture.
 * [Transcendance](https://github.com/lyshathan/transcendance) — Real-time full-stack web application (chat, online game, user management) built to production standards.
+* [Minishell](https://github.com/lyshathan/minishell) — Unix shell in C with pipes, redirections, process management, and complex command parsing.
 
